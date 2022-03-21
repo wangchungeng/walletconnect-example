@@ -24,6 +24,7 @@
     "types": ["react", "jest"]
   },
   "exclude": [
+    "gh-pages.js",
     "node_modules",
     "build",
     "scripts",
